@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: MooChat
+## Notes: Allow left and right arrow in chat
+## Author: eltorrero
+## Version: 20190928
+
+MooChat.lua
